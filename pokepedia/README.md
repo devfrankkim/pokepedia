@@ -1,5 +1,6 @@
 # Pokepedia
 
+# [Check the project live](https://heyfranksmile.github.io/Pokepedia/)
 
 ## Key Concepts I learned from building the project
 - [x] DOM Manipulation
