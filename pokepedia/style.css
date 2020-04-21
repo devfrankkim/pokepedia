@@ -323,11 +323,11 @@ body {
 
 .list-item:hover {
   background: #85cbf2;
-  color: black;
+  color: red;
 }
 
 .list-item:active {
-  background: #1280f2;
+  background: red;
   color: white;
 }
 
